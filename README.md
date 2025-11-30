@@ -1,5 +1,3 @@
-# Spark-Flight-Analytics
-
 # Flight Delay Analytics with Apache Spark
 
 ## Project Overview
