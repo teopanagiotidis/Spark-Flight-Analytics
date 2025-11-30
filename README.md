@@ -22,11 +22,11 @@ This project analyzes flight delay data to identify patterns, compare airline pe
 
 ### 1. Hourly Delay Patterns
 Delays tend to accumulate throughout the day, peaking around 21:00 (propagation delay).
-![Hourly Delay](images/plot_a_hourly)
+![Hourly Delay](images/plot_a_hourly.png)
 
 ### 2. Route Heatmap (Top Routes)
 Specific routes show consistently higher delays compared to others.
-![Heatmap](images/plot_c_heatmap)
+![Heatmap](images/plot_c_heatmap.png)
 
 ## Performance Benchmark: RDD vs. DataFrame
 A key part of this project was comparing the two Spark APIs.
