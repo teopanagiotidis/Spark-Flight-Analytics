@@ -36,11 +36,6 @@ A key part of this project was comparing the two Spark APIs.
 | **DataFrame API** | **~0.5s** | Optimized by Spark's **Catalyst Optimizer**. |
 | **RDD API** | ~2.5s | Opaque execution, slower Python-JVM serialization. |
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/Flight-Delay-Spark-Analytics.git](https://github.com/YOUR_USERNAME/Flight-Delay-Spark-Analytics.git)
-
 ## Tech Stack
 * Python, PySpark
 * Pandas, Matplotlib, Seaborn
